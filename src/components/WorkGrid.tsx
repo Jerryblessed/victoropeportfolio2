@@ -52,7 +52,7 @@ const WorkGrid: React.FC<WorkGridProps> = ({ filter }) => {
       title: "Cultural Heritage Project",
       category: "Mixed Media",
       type: "art",
-      image: "https://github.com/Jerryblessed/victorope-s-archieve/blob/main/Confident%20Elegance%20in%20Navy%20Blue.png?raw=true",
+      image: "https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/lacazette.jpg?raw=true",
       year: 2022,
       description: "A mixed media installation celebrating cultural heritage and traditional craftsmanship in a contemporary context."
     },
@@ -61,7 +61,7 @@ const WorkGrid: React.FC<WorkGridProps> = ({ filter }) => {
       title: "Sustainable Fashion Line",
       category: "Fashion Design",
       type: "fashion",
-      image: "https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/lacazette.jpg?raw=true",
+      image: "https://github.com/Jerryblessed/victorope-s-archieve/blob/main/Confident%20Elegance%20in%20Navy%20Blue.png?raw=true",
       year: 2023,
       description: "An eco-conscious clothing line made from sustainable materials and ethical production methods."
     },
