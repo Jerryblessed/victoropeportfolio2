@@ -43,7 +43,7 @@ const WorkGrid: React.FC<WorkGridProps> = ({ filter }) => {
       title: "Digital Dreams Series",
       category: "Digital Art",
       type: "art",
-      image: "https://images.pexels.com/photos/6677775/pexels-photo-6677775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/digitalart.png?raw=true",
       year: 2023,
       description: "A collection of digital illustrations exploring the intersection of reality and imagination in the digital age."
     },
