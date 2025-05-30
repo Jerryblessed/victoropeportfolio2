@@ -34,7 +34,7 @@ const AboutPage: React.FC = () => {
               className="md:w-1/2 mb-12 md:mb-0"
             >
               <img 
-                src="https://images.pexels.com/photos/3778876/pexels-photo-3778876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/victor_ope.png?raw=true"
                 alt="Victor Ope in studio" 
                 className="rounded-lg w-full h-auto shadow-lg"
               />
@@ -49,7 +49,7 @@ const AboutPage: React.FC = () => {
             >
               <h2 className="text-3xl font-bold mb-6">The Story Behind the Art</h2>
               <p className="text-lg text-neutral-700 leading-relaxed mb-6">
-                Born in Lagos, Nigeria, my artistic journey began at an early age when I discovered my passion 
+                Born in Abuja, Nigeria, my artistic journey began at an early age when I discovered my passion 
                 for visual storytelling. After studying Fine Arts at the University of Arts, I ventured into 
                 the world of fashion design and digital content creation.
               </p>
