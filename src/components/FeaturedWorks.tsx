@@ -23,7 +23,7 @@ const FeaturedWorks: React.FC = () => {
       id: 3,
       title: "Digital Dreams Series",
       category: "Digital Art",
-      image: "https://ope.pythonanywhere.com/postImage/4",
+      image: "https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/digitalart.png?raw=true",
       year: 2023
     }
   ];
