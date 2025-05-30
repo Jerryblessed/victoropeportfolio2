@@ -61,7 +61,7 @@ const WorkGrid: React.FC<WorkGridProps> = ({ filter }) => {
       title: "Sustainable Fashion Line",
       category: "Fashion Design",
       type: "fashion",
-      image: "https://images.pexels.com/photos/3052360/pexels-photo-3052360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      image: "https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/lacazette.jpg?raw=true",
       year: 2023,
       description: "An eco-conscious clothing line made from sustainable materials and ethical production methods."
     },
