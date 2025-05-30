@@ -21,7 +21,7 @@ const HomePage: React.FC = () => {
             className="max-w-3xl text-white"
           >
             <h1 className="text-4xl md:text-6xl font-bold leading-tight mb-6">
-              Creating art that speaks to the soul
+              Creating art that speaks in seconds
             </h1>
             <p className="text-xl md:text-2xl text-neutral-200 mb-8 leading-relaxed">
               Artist, content creator, and fashion designer exploring the boundaries of creative expression.
@@ -49,7 +49,7 @@ const HomePage: React.FC = () => {
             >
               <div className="relative">
                 <img 
-                  src="https://ope.pythonanywhere.com/tailwindUI/assets/images/victor_ope.png" 
+                  src="https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/victor_ope.png?raw=true" 
                   alt="Victor Ope" 
                   className="rounded-lg w-full h-auto shadow-xl"
                 />
