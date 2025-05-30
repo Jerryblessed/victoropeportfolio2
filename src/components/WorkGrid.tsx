@@ -52,7 +52,7 @@ const WorkGrid: React.FC<WorkGridProps> = ({ filter }) => {
       title: "Cultural Heritage Project",
       category: "Mixed Media",
       type: "art",
-      image: "https://github.com/Jerryblessed/victorope-s-archieve/blob/main/Confident%20in%20Royal%20Blue%20Agbada.png?raw=true",
+      image: "https://github.com/Jerryblessed/victorope-s-archieve/blob/main/Confident%20Elegance%20in%20Navy%20Blue.png?raw=true",
       year: 2022,
       description: "A mixed media installation celebrating cultural heritage and traditional craftsmanship in a contemporary context."
     },
@@ -88,7 +88,7 @@ const WorkGrid: React.FC<WorkGridProps> = ({ filter }) => {
       title: "Experimental Fashion Project",
       category: "Fashion Design",
       type: "fashion",
-      image: "https://github.com/Jerryblessed/victorope-s-archieve/blob/main/Confident%20Elegance%20in%20Navy%20Blue.png?raw=true",
+      image: "https://github.com/Jerryblessed/victorope-s-archieve/blob/main/Confident%20in%20Royal%20Blue%20Agbada.png?raw=true",
       year: 2024,
       description: "An avant-garde fashion project pushing the boundaries of wearable art and traditional garment construction."
     },
