@@ -38,7 +38,7 @@ const Navbar: React.FC<NavbarProps> = ({ isScrolled }) => {
           <img
             src="https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/victorope'sport.png?raw=true"
             alt="Victor Ope Logo"
-            className="h-10 w-10 object-contain rounded-full"
+            className="h-11 w-11 object-contain rounded-full"
           />
           <span>Victor Ope</span>
         </NavLink>
