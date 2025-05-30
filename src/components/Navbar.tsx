@@ -33,8 +33,14 @@ const Navbar: React.FC<NavbarProps> = ({ isScrolled }) => {
   return (
     <nav className={navbarClasses}>
       <div className="container mx-auto px-4 md:px-6 flex justify-between items-center">
-        <NavLink to="/" className="text-2xl font-semibold tracking-tight">
-          Victor Ope
+
+        <NavLink to="/" className="flex items-center space-x-2 text-2xl font-semibold tracking-tight">
+          <img
+            src="https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/victorope'sport.png?raw=true"
+            alt="Victor Ope Logo"
+            className="h-8 w-8 object-contain rounded-full"
+          />
+          <span>Victor Ope</span>
         </NavLink>
 
         {/* Desktop menu */}
