@@ -7,14 +7,14 @@ const FeaturedWorks: React.FC = () => {
   const works = [
     {
       id: 1,
-      title: "Mr. Alexandre Lacazette",
+      title: "A Footballer",
       category: "Fine Art",
       image: "https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/lacazette.jpg?raw=true",
       year: 2023
     },
     {
       id: 2,
-      title: "Mens 3 Piece darkblue",
+      title: "Mens 3 Piece darkblue suit",
       category: "Fashion Design",
       image: "https://github.com/Jerryblessed/victorope-s-archieve/blob/main/Confident%20Elegance%20in%20Navy%20Blue.png?raw=true",
       year: 2024
