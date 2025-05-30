@@ -7,9 +7,9 @@ const FeaturedWorks: React.FC = () => {
   const works = [
     {
       id: 1,
-      title: "Renaissance Reimagined",
+      title: "Mr. Alexandre Lacazette",
       category: "Fine Art",
-      image: "https://ope.pythonanywhere.com/postImage/3",
+      image: "https://github.com/Jerryblessed/victoropeportfolio2/blob/main/images/lacazette.png?raw=true",
       year: 2023
     },
     {
